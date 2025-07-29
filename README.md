@@ -1,7 +1,7 @@
 ## Hi guys! - @joaovictorferian👋
 
 
-*About Me*
+**About Me**
 
 - 🌱 .NET
 - 📚 Graduating in Computer science at FECAP; 
